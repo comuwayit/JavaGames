@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=EvilHangman
+comment1.params=maxLength\ numGuess\ dictionary
+comment1.target=EvilHangman(int,\ int,\ java.util.ArrayList)
+comment2.params=guess
+comment2.target=boolean\ play(char)
+comment3.params=
+comment3.target=java.lang.String\ showBoard()
+comment4.params=key\ word\ wordChoiceMap
+comment4.target=void\ addWordChoice(java.lang.String,\ java.lang.String,\ java.util.HashMap)
+comment5.params=
+comment5.target=int\ wordListSize()
+comment6.params=
+comment6.target=boolean\ playerWon()
+comment7.params=
+comment7.target=java.lang.String\ printGuess()
+comment8.params=
+comment8.target=java.lang.String\ getAnswer()
+comment9.params=
+comment9.target=boolean\ gameOver()
+numComments=10
